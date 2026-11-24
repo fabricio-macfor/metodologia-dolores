@@ -100,14 +100,15 @@ A Parte II, Cap. 3 sugere outra cadência para algumas métricas: taxa de conver
 
 ### Divisão de orçamento
 
-Base: Parte IV, Cap. 3, com a revisão do autor. Verba informada: R$ 180.000 no trimestre.
+Base: Parte IV, Cap. 3. Verba informada: R$ 180.000 no trimestre.
 
 | Pilar | Parcela | Foco | Valor |
 |---|---|---|---|
-| Proeminência | 40% | campanhas de alcance | R$ 72.000 |
+| Proeminência | 30% | campanhas de alcance | R$ 54.000 |
 | Valorização | 25% | anúncios e conteúdos para engajamento | R$ 45.000 |
 | Fidelidade | 20% | programas de retenção e relacionamento | R$ 36.000 |
 | Advocacia | 15% | programas de embaixadores e engajamento | R$ 27.000 |
+| Reserva para testes (nota do autor) | 10% | testes em pequena escala | R$ 18.000 |
 
 Para mercado novo, o livro orienta a definir os mercados prioritários onde a Proeminência é baixa (Parte IV, Cap. 3) e, quando falta visibilidade em mercados emergentes, a direcionar mais orçamento para campanhas regionais (Parte IV, Cap. 4), sem trazer outra tabela de percentuais.
 

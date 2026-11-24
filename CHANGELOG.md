@@ -2,6 +2,10 @@
 
 Mudanças relevantes deste projeto. As versões seguem o versionamento semântico.
 
+## 1.0.1 (24/11/2026)
+
+- Orçamento: volta a divisão do livro (30% Proeminência, 25% Valorização, 20% Fidelidade e 15% Advocacia), com os 10% restantes como reserva para testes em pequena escala, como nota do autor.
+
 ## 1.0.0 (23/11/2026)
 
 Primeira versão pública.

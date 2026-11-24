@@ -67,23 +67,24 @@ Ajustes baseados nos quatro pilares (Parte IV, Cap. 4, p. 87):
 
 ## 6. Divisão de orçamento
 
-Distribuição orçamentária recomendada (Parte IV, Cap. 3, p. 82), com a revisão do autor:
+Distribuição orçamentária recomendada (Parte IV, Cap. 3, p. 82):
 
 | Pilar | Parcela | Foco, nas palavras do livro |
 |---|---|---|
-| Proeminência | 40% | "focado em campanhas de alcance" |
+| Proeminência | 30% | "focado em campanhas de alcance" |
 | Valorização | 25% | "com ênfase em anúncios e conteúdos para engajamento" |
 | Fidelidade | 20% | "investindo em programas de retenção e relacionamento" |
 | Advocacia | 15% | "dedicado a programas de embaixadores e engajamento" |
 
-**Revisão do autor (2026):** Proeminência passa a 40%, e a divisão fecha em 100%. A primeira tiragem do livro traz 30% nesse quadro.
+**Reserva para testes: 10% (nota do autor).** As quatro parcelas somam 90%. Os 10% restantes ficam como reserva para testes em pequena escala, que o livro recomenda fazer "antes de comprometer todo o orçamento" (Parte V, Cap. 4).
 
 O livro também mostra ajustes de verba guiados pelo diagnóstico, sem nova tabela de percentuais: mais orçamento para campanhas regionais quando falta visibilidade em mercados emergentes (Parte IV, Cap. 4, p. 87); parte do orçamento realocada para campanhas de visibilidade quando a marca dependia só de anúncios pagos e o tráfego direto caía (Parte IV, Cap. 2, p. 73).
 
 **Procedimento da skill.**
 
-- Apresente a tabela como recomendação do livro, já com a revisão do autor (40% em Proeminência).
-- Se o usuário informar a verba total, calcule o valor de cada parcela. Essa é a única conta que a skill faz por conta própria.
+- Apresente a tabela como recomendação do livro.
+- Mostre sempre a reserva para testes de 10% junto com as quatro parcelas, identificada como nota do autor.
+- Se o usuário informar a verba total, calcule o valor de cada parcela e da reserva. Essa é a única conta que a skill faz por conta própria.
 - Não proponha outros percentuais. Se o diagnóstico pedir mais peso em um pilar, cite os ajustes qualitativos acima e deixe a decisão com o usuário.
 
 ## 7. Sucesso por pilar e checklist final
@@ -126,10 +127,11 @@ Base: Parte IV, Cap. 3.
 
 | Pilar | Parcela | Foco | Valor |
 |---|---|---|---|
-| Proeminência | 40% | campanhas de alcance | ... |
+| Proeminência | 30% | campanhas de alcance | ... |
 | Valorização | 25% | anúncios e conteúdos para engajamento | ... |
 | Fidelidade | 20% | programas de retenção e relacionamento | ... |
 | Advocacia | 15% | programas de embaixadores e engajamento | ... |
+| Reserva para testes (nota do autor) | 10% | testes em pequena escala | ... |
 
 [Depois da tabela, só os ajustes qualitativos do livro que se apliquem ao caso.]
 ```
